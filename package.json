@@ -2,6 +2,16 @@
   "name": "@firepotfinance/firepot-core",
   "description": "🎛 Core contracts for the Firepot protocol",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/firepotfinance/core-firepot"
+  },
+  "keywords": [
+    "firepot",
+    "ambrosus",
+    "core",
+    "firepotswap"
+  ],
   "files": [
     "contracts",
     "build"
@@ -32,8 +42,5 @@
     "test": "mocha",
     "prepublishOnly": "yarn test"
   },
-  "license": "GPL-3.0-or-later",
-  "dependencies": {
-    "@remix-project/remixd": "^0.6.2"
-  }
+  "license": "GPL-3.0-or-later"
 }
