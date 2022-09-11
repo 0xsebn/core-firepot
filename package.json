@@ -1,5 +1,5 @@
 {
-  "name": "@firepotfinance/firepot-core",
+  "name": "@firepotfinance/core-firepot",
   "description": "🎛 Core contracts for the Firepot protocol",
   "version": "1.0.0",
   "repository": {
