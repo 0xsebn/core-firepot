@@ -233,10 +233,10 @@
 	},
 	"sources": {
 		"contracts/FirepotERC20.sol": {
-			"keccak256": "0xa807f40f3da5ea32605bc29a048ed6a92faf18b3129a7375b70cca52d4e91582",
+			"keccak256": "0xb01e42b389fbd947494823ebd2f0bd80ad3f2b39c6a2d8f4007dc2fd97400367",
 			"urls": [
-				"bzz-raw://4bb92a770f93f31fc88ecd0de7f1ef536c9f622cead91ba1aa23d66963476e95",
-				"dweb:/ipfs/QmRf7RAQERsGwNE15gNnKmP15rBoW71Yxzf4mnNfiMdnxx"
+				"bzz-raw://2c16ad9e401790843fcb6c05cae596243ae6aafb26603aa94bc722646a7fbdf4",
+				"dweb:/ipfs/QmbQTBo6Uchby8YWciRxb9Nrvenftb2NPChfMbKeMZnntV"
 			]
 		},
 		"contracts/FirepotFactory.sol": {
